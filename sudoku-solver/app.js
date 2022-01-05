@@ -32,7 +32,7 @@ const solve = () => {
     headers: {
         'content-type': 'application/json',
         'x-rapidapi-host': 'solve-sudoku.p.rapidapi.com',
-        'x-rapidapi-key': '8b35a599b5msh3595dbde76bc17cp1bfe1cjsnd371dfcad6dc'
+        'x-rapidapi-key': ''
     },
     data: {
         puzzle: '2.............62....1....7...6..8...3...9...7...6..4...4....8....52.............3'
